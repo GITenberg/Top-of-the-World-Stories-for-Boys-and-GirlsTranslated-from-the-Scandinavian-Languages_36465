@@ -1,0 +1,76 @@
+_repo: Top-of-the-World-Stories-for-Boys-and-GirlsTranslated-from-the-Scandinavian-Languages_36465
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Zachris
+    - Topelius, Sakarias
+    - Topelius, Zakarias
+    - Topelius, Zakris
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+  - agent_name: Nyblom, Helena
+    alias: Nyblom, Helena Augusta (Roed)
+    birthdate: 1843
+    deathdate: 1926
+    gutenberg_agent_id: '37089'
+    url: http://www.gutenberg.org/2009/agents/37089
+  - agent_name: Krohn, Julius
+    aliases:
+    - Suonio
+    - Krohn, Gyula
+    - Krohn, J. (Julius)
+    - Krohn, Julius Leopold Fredrik
+    birthdate: 1835
+    deathdate: 1888
+    gutenberg_agent_id: '4607'
+    url: http://www.gutenberg.org/2009/agents/4607
+    wikipedia: http://fi.wikipedia.org/wiki/Julius_Krohn
+  illustrator:
+    agent_name: Young, Florence Liley
+    alias: Liley, F. (Florence)
+    birthdate: 1872
+    deathdate: 1974
+    gutenberg_agent_id: '26003'
+    url: http://www.gutenberg.org/2009/agents/26003
+  translators:
+  - agent_name: Poulsson, Laura E. (Laura Elizabeth)
+    birthdate: 1851
+    gutenberg_agent_id: '31933'
+    url: http://www.gutenberg.org/2009/agents/31933
+  - agent_name: Poulsson, Emilie
+    birthdate: 1853
+    deathdate: 1939
+    gutenberg_agent_id: '26809'
+    url: http://www.gutenberg.org/2009/agents/26809
+covers:
+- cover_type: archival
+  image_path: 36465-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2011-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36465'
+  lccn: '16017491'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, Scandinavian'
+- !lcsh 'Short stories'
+- !lcc 'PZ'
+tableOfContents: Knut Spelevink, by Z. Topelius -- The Princess Lingdagull, by Z.
+  Topelius -- Sikku and the trolls, by Z. Topelius -- Sampo Lappelil, by Z. Topelius
+  -- A legend of mercy, by Z. Topelius -- Anton's errand, or The boy who made friends
+  by the way, by Helena Nyblom -- The forest witch, by J. Krohn -- The testing of
+  the two knights, by J. Krohn.
+title: "Top-of-the-World Stories for Boys and Girls\r\nTranslated from the Scandinavian\
+  \ Languages"
+url: http://www.gutenberg.org/ebooks/36465
