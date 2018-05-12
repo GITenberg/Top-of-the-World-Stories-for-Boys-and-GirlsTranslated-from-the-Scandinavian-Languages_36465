@@ -53,6 +53,8 @@ covers:
 - cover_type: archival
   image_path: 36465-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36465#Top-of-the-World-Stories-for-Boys-and-GirlsTranslated-from-the-Scandinavian-Languages
 gutenberg_issued: '2011-06-19'
 gutenberg_type: Text
 identifiers:
